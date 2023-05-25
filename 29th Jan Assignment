@@ -1,0 +1,24 @@
+1. Guido van Rossum
+2. Object-oriented, structured, and functional programming
+3. Yes, python is case sensitive
+4. Python extention is - .py
+5. Python program is first compiled and then interpreted.
+6. if-else, for/while loop, function
+7. Single line command - #
+8.sys.version helps us to find python current version
+9.lambda
+10. PIP is a package manager for Python packages
+11. Some build in functions are - sum(), sort(), max(), isUpper(),isLower() etc
+12. maximum possible length of an identifier - 79 characters
+13. It is free open source, dynamically typed, oops supported, platform independent or portable etc
+14. Python uses the dynamic memory allocation which is managed by the Heap data structure.
+15. Open python website --> download windows installer --> 
+       Right click on My Computer and click on properties.
+       Click on Advanced System settings. ...
+       Click on Environment Variable tab.
+       Click on new tab of user variables. ...
+       Write path in variable name.
+       Copy the path of Python folder.
+       Paste path of Python in variable value.
+       click ok double time
+16. Yes, indentation is must recuired in python.       
